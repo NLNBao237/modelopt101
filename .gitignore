@@ -1,0 +1,17 @@
+# Python virtual environments
+.venv/
+.venv-triton/
+venv/
+env/
+
+# Datasets downloaded by the notebooks (torchvision MNIST)
+data/
+
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
